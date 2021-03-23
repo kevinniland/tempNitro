@@ -1,0 +1,1 @@
+msiexec /i "C:\Temp\Nitro\nitro_pro13_x64.msi" TRANSFORMS="C:\Temp\Nitro\nitro_pro13_x64_Student.mst" /n
